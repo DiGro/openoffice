@@ -48,8 +48,6 @@
         <bookmark xml-lang="en-US" branch="hid/sdext:Minimizer:Wizard:Step4:RBNotODF" id="bm_id77665520" localize="false"/>
         <paragraph xml-lang="en-US" id="hd_id77665503" role="heading" level="2" l10n="NEW">For OLE objects not based on OpenDocument format</paragraph>
         <paragraph xml-lang="en-US" id="par_id77665503p" role="paragraph" l10n="NEW"><ahelp hid="sdext:Minimizer:Wizard:Step4:RBNotODF">Replace only OLE objects not based on the Open Document Format used by %PRODUCTNAME.</ahelp></paragraph>
-        <paragraph role="paragraph" id="par_id3153087" xml-lang="en-US" l10n="NEW">
-            <link href="text/simpress/minimizer/step5.xhp" name="Go to Presentation Minimizer - Summary">Go to Presentation Minimizer - Summary</link>
-        </paragraph>
+        <paragraph role="paragraph" id="par_id3153087" xml-lang="en-US" l10n="NEW"><link href="text/simpress/minimizer/step5.xhp" name="Go to Presentation Minimizer - Summary">Go to Presentation Minimizer - Summary</link></paragraph>
     </body>
 </helpdocument>
