@@ -33,11 +33,11 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3154866"><bookmark_value>inserting;lines under headers/above footers</bookmark_value>
-      <bookmark_value>lines; under headers/above footers</bookmark_value>
-      <bookmark_value>headers;formatting</bookmark_value>
-      <bookmark_value>footers;formatting</bookmark_value>
-      <bookmark_value>shadows;headers/footers</bookmark_value>
-      <bookmark_value>borders;for headers/footers</bookmark_value>
+<bookmark_value>lines; under headers/above footers</bookmark_value>
+<bookmark_value>headers;formatting</bookmark_value>
+<bookmark_value>footers;formatting</bookmark_value>
+<bookmark_value>shadows;headers/footers</bookmark_value>
+<bookmark_value>borders;for headers/footers</bookmark_value>
 </bookmark><comment>MW changed "inserting;"</comment>
 <paragraph xml-lang="en-US" id="hd_id3154866" role="heading" level="1" l10n="U"
                  oldref="20"><variable id="header_with_line"><link href="text/swriter/guide/header_with_line.xhp" name="Formatting Headers or Footers">Formatting Headers or Footers</link>

@@ -33,10 +33,10 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3148856"><bookmark_value>text; hiding</bookmark_value>
-      <bookmark_value>sections;hiding</bookmark_value>
-      <bookmark_value>paragraphs;hiding</bookmark_value>
-      <bookmark_value>hiding;text, with conditions</bookmark_value>
-      <bookmark_value>variables;for hiding text</bookmark_value>
+<bookmark_value>sections;hiding</bookmark_value>
+<bookmark_value>paragraphs;hiding</bookmark_value>
+<bookmark_value>hiding;text, with conditions</bookmark_value>
+<bookmark_value>variables;for hiding text</bookmark_value>
 </bookmark><comment>mw deleted "comparisons;" and copied two entries to hidden_text_display.xhp and 2 entries to nonprintable_text.xhp</comment><comment>MW added "variables;"</comment>
 <paragraph xml-lang="en-US" id="hd_id3148856" role="heading" level="1" l10n="U" oldref="1"><variable id="hidden_text"><link href="text/swriter/guide/hidden_text.xhp" name="Hiding Text">Hiding Text</link> 
 </variable></paragraph>
@@ -66,8 +66,7 @@
             <paragraph xml-lang="en-US" id="par_id3149585" role="listitem" l10n="U" oldref="26">Click <item type="menuitem">Insert</item> and <item type="menuitem">Close</item>.</paragraph>
          </listitem>
       </list>
-      <paragraph xml-lang="en-US" id="hd_id3156245" role="heading" level="2" l10n="U"
-                 oldref="27">To Hide Text</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3156245" role="heading" level="2" l10n="U" oldref="27">To Hide Text</paragraph>
       <list type="ordered">
          <listitem>
             <paragraph xml-lang="en-US" id="par_id3145391" role="listitem" l10n="U" oldref="28">Click in the document where you want to add the text.</paragraph>
@@ -88,8 +87,7 @@
             <paragraph xml-lang="en-US" id="par_id3154233" role="listitem" l10n="U" oldref="32">Click <item type="menuitem">Insert</item> and <item type="menuitem">Close</item>.</paragraph>
          </listitem>
       </list>
-      <paragraph xml-lang="en-US" id="hd_id3154256" role="heading" level="2" l10n="U"
-                 oldref="33">To Hide a Paragraph</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3154256" role="heading" level="2" l10n="U" oldref="33">To Hide a Paragraph</paragraph>
       <list type="ordered">
          <listitem>
             <paragraph xml-lang="en-US" id="par_id3154853" role="listitem" l10n="U" oldref="34">Click in the paragraph where you want to add the text.</paragraph>
@@ -108,8 +106,7 @@
          </listitem>
       </list>
       <paragraph xml-lang="en-US" id="par_id3793450" role="note" l10n="NEW">You must enable this feature by removing the check mark from menu <emph>View - Hidden Paragraphs</emph>. When the check mark is set, you cannot hide any paragraph.</paragraph>
-      <paragraph xml-lang="en-US" id="hd_id3148675" role="heading" level="2" l10n="U"
-                 oldref="38">To Hide a Section</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3148675" role="heading" level="2" l10n="U" oldref="38">To Hide a Section</paragraph>
       <list type="ordered">
          <listitem>
             <paragraph xml-lang="en-US" id="par_id3148697" role="listitem" l10n="U" oldref="39">Select the text that you want to hide in your document.</paragraph>

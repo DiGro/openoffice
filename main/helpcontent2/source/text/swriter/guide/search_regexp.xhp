@@ -33,12 +33,12 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3150099"><bookmark_value>wildcards, see regular expressions</bookmark_value>
-      <bookmark_value>searching; with wildcards</bookmark_value>
-      <bookmark_value>regular expressions;searching</bookmark_value>
-      <bookmark_value>examples for regular expressions</bookmark_value>
-      <bookmark_value>characters;finding all</bookmark_value>
-      <bookmark_value>invisible characters;finding</bookmark_value>
-      <bookmark_value>paragraph marks;searching</bookmark_value>
+<bookmark_value>searching; with wildcards</bookmark_value>
+<bookmark_value>regular expressions;searching</bookmark_value>
+<bookmark_value>examples for regular expressions</bookmark_value>
+<bookmark_value>characters;finding all</bookmark_value>
+<bookmark_value>invisible characters;finding</bookmark_value>
+<bookmark_value>paragraph marks;searching</bookmark_value>
 </bookmark><comment>mw deleted "wildcards;" and inserted wildcards crossreference</comment><comment>mw added "paragraph marks;"</comment>
 <paragraph xml-lang="en-US" id="hd_id3150099" role="heading" level="1" l10n="U"
                  oldref="15"><variable id="search_regexp"><link href="text/swriter/guide/search_regexp.xhp">Using Wildcards in Text Searches</link>

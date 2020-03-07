@@ -34,10 +34,10 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3148882"><bookmark_value>settings;word completion</bookmark_value>
-      <bookmark_value>word completion;settings</bookmark_value>
-      <bookmark_value>text documents;word completion settings</bookmark_value>
-      <bookmark_value>weekdays; automatically completing</bookmark_value>
-      <bookmark_value>months; automatically completing</bookmark_value>
+<bookmark_value>word completion;settings</bookmark_value>
+<bookmark_value>text documents;word completion settings</bookmark_value>
+<bookmark_value>weekdays; automatically completing</bookmark_value>
+<bookmark_value>months; automatically completing</bookmark_value>
 </bookmark><comment>mw copied two entries from word_completion.xhp and created three new entries</comment>
 <paragraph xml-lang="en-US" id="hd_id4745017" role="heading" level="1" l10n="NEW"><variable id="word_completion_adjust"><link href="text/swriter/guide/word_completion_adjust.xhp">Fine-Tuning the Word Completion for Text Documents</link>
 </variable></paragraph><comment>MW created this guide by splitting word_completion.xhp</comment>

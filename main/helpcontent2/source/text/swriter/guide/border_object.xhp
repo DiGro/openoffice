@@ -27,18 +27,18 @@
 	
 <meta>
       <topic id="textswriterguideborder_objectxml" indexer="include" status="PUBLISH">
-         <title xml-lang="en-US" id="tit">Defining Borders for Objects </title>
+         <title xml-lang="en-US" id="tit">Defining Borders for Objects</title>
          <filename>/text/swriter/guide/border_object.xhp</filename>
       </topic>
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3146957"><bookmark_value>objects; defining borders</bookmark_value>
-      <bookmark_value>borders; for objects</bookmark_value>
-      <bookmark_value>frames; around objects</bookmark_value>
-      <bookmark_value>charts;borders</bookmark_value>
-      <bookmark_value>pictures;borders</bookmark_value>
-      <bookmark_value>OLE objects;borders</bookmark_value>
-      <bookmark_value>defining;object borders</bookmark_value>
+<bookmark_value>borders; for objects</bookmark_value>
+<bookmark_value>frames; around objects</bookmark_value>
+<bookmark_value>charts;borders</bookmark_value>
+<bookmark_value>pictures;borders</bookmark_value>
+<bookmark_value>OLE objects;borders</bookmark_value>
+<bookmark_value>defining;object borders</bookmark_value>
 </bookmark><comment>MW deleted "adding;"</comment>
 <paragraph xml-lang="en-US" id="hd_id3146957" role="heading" level="1" l10n="U"
                  oldref="17"><variable id="border_object"><link href="text/swriter/guide/border_object.xhp" name="Defining Borders for Objects">Defining Borders for Objects</link>

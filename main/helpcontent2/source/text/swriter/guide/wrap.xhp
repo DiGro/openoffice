@@ -33,13 +33,13 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3154486"><bookmark_value>text wrap around objects</bookmark_value>
-      <bookmark_value>contour editor</bookmark_value>
-      <bookmark_value>contour wrap</bookmark_value>
-      <bookmark_value>text; formatting around objects</bookmark_value>
-      <bookmark_value>formatting; contour wrap</bookmark_value>
-      <bookmark_value>objects; contour wrap</bookmark_value>
-      <bookmark_value>wrapping text;editing contours</bookmark_value>
-      <bookmark_value>editors;contour editor</bookmark_value>
+<bookmark_value>contour editor</bookmark_value>
+<bookmark_value>contour wrap</bookmark_value>
+<bookmark_value>text; formatting around objects</bookmark_value>
+<bookmark_value>formatting; contour wrap</bookmark_value>
+<bookmark_value>objects; contour wrap</bookmark_value>
+<bookmark_value>wrapping text;editing contours</bookmark_value>
+<bookmark_value>editors;contour editor</bookmark_value>
 </bookmark>
 <paragraph xml-lang="en-US" id="hd_id3154486" role="heading" level="1" l10n="U" oldref="8"><variable id="wrap"><link href="text/swriter/guide/wrap.xhp" name="Wrapping Text Around Objects">Wrapping Text Around Objects</link>
 </variable></paragraph>

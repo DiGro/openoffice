@@ -34,9 +34,9 @@
    <body>
       <section id="hyperlink">
 <bookmark xml-lang="en-US" branch="index" id="bm_id3150980"><bookmark_value>objects; defining hyperlinks</bookmark_value>
-         <bookmark_value>frames; defining hyperlinks</bookmark_value>
-         <bookmark_value>pictures; defining hyperlinks</bookmark_value>
-         <bookmark_value>hyperlinks; for objects</bookmark_value>
+<bookmark_value>frames; defining hyperlinks</bookmark_value>
+<bookmark_value>pictures; defining hyperlinks</bookmark_value>
+<bookmark_value>hyperlinks; for objects</bookmark_value>
 </bookmark>
 <bookmark xml-lang="en-US" branch="hid/SW_HID_FRM_URL" id="bm_id3153671" localize="false"/>
 <paragraph xml-lang="en-US" id="hd_id3150980" role="heading" level="1" l10n="U" oldref="1"><link href="text/swriter/01/05060800.xhp" name="Hyperlink">Hyperlink</link></paragraph>

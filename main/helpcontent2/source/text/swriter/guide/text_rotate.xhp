@@ -33,11 +33,9 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3155911"><bookmark_value>text; rotating</bookmark_value>
-      <bookmark_value>rotating;text</bookmark_value>
+<bookmark_value>rotating;text</bookmark_value>
 </bookmark>
-<paragraph xml-lang="en-US" id="hd_id3155911" role="heading" level="1" l10n="U"
-                 oldref="65"><variable id="text_rotate"><link href="text/swriter/guide/text_rotate.xhp" name="Rotating Text">Rotating Text</link>
-</variable></paragraph>
+<paragraph xml-lang="en-US" id="hd_id3155911" role="heading" level="1" l10n="U" oldref="65"><variable id="text_rotate"><link href="text/swriter/guide/text_rotate.xhp" name="Rotating Text">Rotating Text</link></variable></paragraph>
       <paragraph xml-lang="en-US" id="par_id3147410" role="paragraph" l10n="U" oldref="66">You can only rotate text that is contained in a drawing object.</paragraph>
       <list type="ordered">
          <listitem>

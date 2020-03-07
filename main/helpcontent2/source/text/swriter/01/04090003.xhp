@@ -113,7 +113,7 @@
 </tablerow>
 <tablerow>
 <tablecell>
-<paragraph role="tablecontent" id="par_id3154192" xml-lang="en-US" l10n="U" oldref="39">Combine characters </paragraph>
+<paragraph role="tablecontent" id="par_id3154192" xml-lang="en-US" l10n="U" oldref="39">Combine characters</paragraph>
 </tablecell>
 <tablecell>
 <paragraph role="tablecontent" id="par_id3159199" xml-lang="en-US" l10n="U" oldref="42">Combines up to 6 characters, so that they behave as a single character. This feature is only available when Asian fonts are supported.</paragraph>

@@ -33,15 +33,15 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3153407"><bookmark_value>page styles; left and right pages</bookmark_value>
-      <bookmark_value>blank pages with alternating page styles</bookmark_value>
-      <bookmark_value>empty page with alternating page styles</bookmark_value>
-      <bookmark_value>pages; left and right pages</bookmark_value>
-      <bookmark_value>formatting; even/odd pages</bookmark_value>
-      <bookmark_value>title pages; page styles</bookmark_value>
-      <bookmark_value>First Page page style</bookmark_value>
-      <bookmark_value>Left Page page style</bookmark_value>
-      <bookmark_value>right pages</bookmark_value>
-      <bookmark_value>even/odd pages;formatting</bookmark_value>
+<bookmark_value>blank pages with alternating page styles</bookmark_value>
+<bookmark_value>empty page with alternating page styles</bookmark_value>
+<bookmark_value>pages; left and right pages</bookmark_value>
+<bookmark_value>formatting; even/odd pages</bookmark_value>
+<bookmark_value>title pages; page styles</bookmark_value>
+<bookmark_value>First Page page style</bookmark_value>
+<bookmark_value>Left Page page style</bookmark_value>
+<bookmark_value>right pages</bookmark_value>
+<bookmark_value>even/odd pages;formatting</bookmark_value>
 </bookmark><comment>MW made "empty pages;..." and "blank pages;.." to one level entries.</comment>
 <paragraph xml-lang="en-US" id="hd_id3153407" role="heading" level="1" l10n="U" oldref="1"><variable id="even_odd_sdw"><link href="text/swriter/guide/even_odd_sdw.xhp" name="Alternating Page Styles on Odd and Even Pages">Alternating Page Styles on Odd and Even Pages</link>
 </variable></paragraph>

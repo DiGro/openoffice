@@ -33,11 +33,11 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3147828"><bookmark_value>objects;anchoring options</bookmark_value>
-      <bookmark_value>positioning;objects (guide)</bookmark_value>
-      <bookmark_value>anchors;options</bookmark_value>
-      <bookmark_value>frames;anchoring options</bookmark_value>
-      <bookmark_value>pictures;anchoring options</bookmark_value>
-      <bookmark_value>centering;images on HTML pages</bookmark_value>
+<bookmark_value>positioning;objects (guide)</bookmark_value>
+<bookmark_value>anchors;options</bookmark_value>
+<bookmark_value>frames;anchoring options</bookmark_value>
+<bookmark_value>pictures;anchoring options</bookmark_value>
+<bookmark_value>centering;images on HTML pages</bookmark_value>
 </bookmark>
 <paragraph xml-lang="en-US" id="hd_id3147828" role="heading" level="1" l10n="U"
                  oldref="45"><variable id="anchor_object"><link href="text/swriter/guide/anchor_object.xhp" name="Positioning Objects">Positioning Objects</link>

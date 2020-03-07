@@ -33,13 +33,13 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3155182"><bookmark_value>characters; uppercase or lowercase</bookmark_value>
-      <bookmark_value>text; uppercase or lowercase</bookmark_value>
-      <bookmark_value>lowercase letters; text</bookmark_value>
-      <bookmark_value>uppercase; formatting text</bookmark_value>
-      <bookmark_value>capital letters;changing to small letters</bookmark_value>
-      <bookmark_value>changing;cases of text</bookmark_value>
-      <bookmark_value>initial capitals in titles</bookmark_value>
-      <bookmark_value>small capitals (guide)</bookmark_value>
+<bookmark_value>text; uppercase or lowercase</bookmark_value>
+<bookmark_value>lowercase letters; text</bookmark_value>
+<bookmark_value>uppercase; formatting text</bookmark_value>
+<bookmark_value>capital letters;changing to small letters</bookmark_value>
+<bookmark_value>changing;cases of text</bookmark_value>
+<bookmark_value>initial capitals in titles</bookmark_value>
+<bookmark_value>small capitals (guide)</bookmark_value>
 </bookmark><comment>MW added "small capitals"</comment>
 <paragraph xml-lang="en-US" id="hd_id3155182" role="heading" level="1" l10n="U" oldref="1"><variable id="text_capital"><link href="text/swriter/guide/text_capital.xhp" name="Changing the Case of Text">Changing the Case of Text</link>
 </variable></paragraph>

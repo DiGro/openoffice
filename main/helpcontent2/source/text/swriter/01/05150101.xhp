@@ -35,8 +35,8 @@
 <bookmark xml-lang="en-US" branch="hid/.uno:AutoFormat" id="bm_id3150343" localize="false"/>
 <bookmark xml-lang="en-US" branch="hid/SW_HID_AUTOFMT_TABLE" id="bm_id3150249" localize="false"/>
 <bookmark xml-lang="en-US" branch="index" id="bm_id2655415"><bookmark_value>tables;AutoFormat function</bookmark_value>
-      <bookmark_value>styles;table styles</bookmark_value>
-      <bookmark_value>AutoFormat function for tables</bookmark_value>
+<bookmark_value>styles;table styles</bookmark_value>
+<bookmark_value>AutoFormat function for tables</bookmark_value>
 </bookmark><comment>MW changed "tables styles;" to "styles;"</comment><comment>MW made "AutoFormat function;" a one level entry</comment>
 <paragraph xml-lang="en-US" id="hd_id3148485" role="heading" level="1" l10n="U" oldref="1">AutoFormat for Tables</paragraph>
       <paragraph xml-lang="en-US" id="par_id3149500" role="paragraph" l10n="U" oldref="2"><variable id="autoformattabelle"><ahelp hid="HID_AUTOFMT_TABLE">Automatically applies formats to the current table, including fonts, shading, and borders.</ahelp>

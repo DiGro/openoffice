@@ -33,11 +33,11 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3145246"><bookmark_value>master documents;properties</bookmark_value>
-      <bookmark_value>subdocuments;properties</bookmark_value>
-      <bookmark_value>central documents</bookmark_value>
-      <bookmark_value>subsidiary documents</bookmark_value>
-      <bookmark_value>documents; master documents and subdocuments</bookmark_value>
-      <bookmark_value>styles;master documents</bookmark_value>
+<bookmark_value>subdocuments;properties</bookmark_value>
+<bookmark_value>central documents</bookmark_value>
+<bookmark_value>subsidiary documents</bookmark_value>
+<bookmark_value>documents; master documents and subdocuments</bookmark_value>
+<bookmark_value>styles;master documents</bookmark_value>
 </bookmark><comment>Mw made "master documents" and "subdocuments" a two level entry, deleted "references;" and "bookmarks;" and added a new entry and shifted "Navigator;" and "indexes;" to the file globaldoc_howtos.xhp</comment>
 <paragraph xml-lang="en-US" id="hd_id3145246" role="heading" level="1" l10n="U" oldref="4"><variable id="globaldoc"><link href="text/swriter/guide/globaldoc.xhp">Master Documents and Subdocuments</link>
 </variable></paragraph><comment>MW: This file was split into globaldoc.xhp (concepts) and globaldoc_howtos.xhp (procedures)</comment>

@@ -33,14 +33,14 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3145828"><bookmark_value>logical expressions</bookmark_value>
-      <bookmark_value>formulating conditions</bookmark_value>
-      <bookmark_value>conditions; in fields and sections</bookmark_value>
-      <bookmark_value>fields;defining conditions</bookmark_value>
-      <bookmark_value>sections;defining conditions</bookmark_value>
-      <bookmark_value>variables; in conditions</bookmark_value>
-      <bookmark_value>user data;in conditions</bookmark_value>
-      <bookmark_value>databases;in conditions</bookmark_value>
-      <bookmark_value>hiding; database fields</bookmark_value>
+<bookmark_value>formulating conditions</bookmark_value>
+<bookmark_value>conditions; in fields and sections</bookmark_value>
+<bookmark_value>fields;defining conditions</bookmark_value>
+<bookmark_value>sections;defining conditions</bookmark_value>
+<bookmark_value>variables; in conditions</bookmark_value>
+<bookmark_value>user data;in conditions</bookmark_value>
+<bookmark_value>databases;in conditions</bookmark_value>
+<bookmark_value>hiding; database fields</bookmark_value>
 </bookmark>
 <paragraph xml-lang="en-US" id="hd_id3145828" role="heading" level="1" l10n="CHG"
                  oldref="1"><variable id="defining_conditions"><link href="text/swriter/01/04090200.xhp">Defining Conditions</link>

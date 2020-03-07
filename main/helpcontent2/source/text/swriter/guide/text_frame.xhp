@@ -33,14 +33,14 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3149487"><bookmark_value>text frames; inserting/editing/linking</bookmark_value>
-      <bookmark_value>editing;text frames</bookmark_value>
-      <bookmark_value>inserting;text frames</bookmark_value>
-      <bookmark_value>resizing;text frames, by mouse</bookmark_value>
-      <bookmark_value>scaling; text frames, by mouse</bookmark_value>
-      <bookmark_value>links;text frames</bookmark_value>
-      <bookmark_value>text flow; from frame to frame</bookmark_value>
-      <bookmark_value>frames; linking</bookmark_value>
-      <bookmark_value>printing;hiding text frames from printing</bookmark_value>
+<bookmark_value>editing;text frames</bookmark_value>
+<bookmark_value>inserting;text frames</bookmark_value>
+<bookmark_value>resizing;text frames, by mouse</bookmark_value>
+<bookmark_value>scaling; text frames, by mouse</bookmark_value>
+<bookmark_value>links;text frames</bookmark_value>
+<bookmark_value>text flow; from frame to frame</bookmark_value>
+<bookmark_value>frames; linking</bookmark_value>
+<bookmark_value>printing;hiding text frames from printing</bookmark_value>
 </bookmark><comment>mw deleted "text;" and changed "printing;"</comment>
 <paragraph xml-lang="en-US" id="hd_id3149487" role="heading" level="1" l10n="U" oldref="3"><variable id="text_frame"><link href="text/swriter/guide/text_frame.xhp" name="Inserting, Editing, and Linking Text Frames">Inserting, Editing, and Linking Text Frames</link>
 </variable></paragraph>

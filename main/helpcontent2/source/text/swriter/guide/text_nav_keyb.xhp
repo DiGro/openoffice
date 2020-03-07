@@ -33,13 +33,11 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3159260"><bookmark_value>text; navigating and selecting with keyboard</bookmark_value>
-      <bookmark_value>navigating; in text, with keyboard</bookmark_value>
-      <bookmark_value>selecting;text, with keyboard</bookmark_value>
-      <bookmark_value>keyboard; navigating and selecting in text</bookmark_value>
+<bookmark_value>navigating; in text, with keyboard</bookmark_value>
+<bookmark_value>selecting;text, with keyboard</bookmark_value>
+<bookmark_value>keyboard; navigating and selecting in text</bookmark_value>
 </bookmark>
-<paragraph xml-lang="en-US" id="hd_id3159260" role="heading" level="1" l10n="U"
-                 oldref="33"><variable id="text_nav_keyb"><link href="text/swriter/guide/text_nav_keyb.xhp" name="Navigating and Selecting With the Keyboard">Navigating and Selecting With the Keyboard</link>
-</variable></paragraph>
+<paragraph xml-lang="en-US" id="hd_id3159260" role="heading" level="1" l10n="U" oldref="33"><variable id="text_nav_keyb"><link href="text/swriter/guide/text_nav_keyb.xhp" name="Navigating and Selecting With the Keyboard">Navigating and Selecting With the Keyboard</link></variable></paragraph>
       <paragraph xml-lang="en-US" id="par_id3155179" role="paragraph" l10n="U" oldref="13">You can navigate through a document and make selections with the keyboard.</paragraph>
       <list type="unordered">
          <listitem>
@@ -58,8 +56,7 @@
                <paragraph xml-lang="en-US" id="par_id3155870" role="tablehead" l10n="U" oldref="24">Function</paragraph>
             </tablecell>
             <tablecell>
-               <paragraph xml-lang="en-US" id="par_id3156220" role="tablehead" l10n="U" oldref="25">
-                  <emph>+</emph><switchinline select="sys"><caseinline select="MAC"><emph>Command key</emph>
+               <paragraph xml-lang="en-US" id="par_id3156220" role="tablehead" l10n="U" oldref="25"><emph>+</emph><switchinline select="sys"><caseinline select="MAC"><emph>Command key</emph>
 </caseinline><defaultinline><emph>Ctrl key</emph></defaultinline></switchinline></paragraph>
             </tablecell>
          </tablerow>

@@ -33,16 +33,15 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3145246"><bookmark_value>Navigator;master documents</bookmark_value>
-      <bookmark_value>master documents;creating/editing/exporting</bookmark_value>
-      <bookmark_value>subdocuments;creating/editing/removing</bookmark_value>
-      <bookmark_value>removing;subdocuments</bookmark_value>
-      <bookmark_value>indexes; master documents</bookmark_value>
+<bookmark_value>master documents;creating/editing/exporting</bookmark_value>
+<bookmark_value>subdocuments;creating/editing/removing</bookmark_value>
+<bookmark_value>removing;subdocuments</bookmark_value>
+<bookmark_value>indexes; master documents</bookmark_value>
 </bookmark><comment>MW created 4 new index entries. 2 index entries were taken from globaldoc.xhp.</comment><comment>MW made one index entry out of 2 "subdocuments;" entries</comment>
 <paragraph xml-lang="en-US" id="hd_id3145246" role="heading" level="1" l10n="U" oldref="4"><variable id="globaldoc_howtos"><link href="text/swriter/guide/globaldoc_howtos.xhp">Working with Master Documents and Subdocuments</link>
 </variable></paragraph><comment>MW: this is a new guide created from splitting globaldoc.xhp</comment>
 <paragraph xml-lang="en-US" id="par_id1522873" role="paragraph" l10n="NEW">A master document lets you manage large documents, such as a book with many chapters. The master document can be seen as a container for individual <item type="productname">%PRODUCTNAME</item> Writer files. The individual files are called subdocuments.</paragraph>
-      <paragraph xml-lang="en-US" id="hd_id3153127" role="heading" level="2" l10n="U"
-                 oldref="29">To Create a Master Document</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3153127" role="heading" level="2" l10n="U" oldref="29">To Create a Master Document</paragraph>
       <list type="ordered">
          <listitem>
             <paragraph xml-lang="en-US" id="par_id3149634" role="listitem" l10n="U" oldref="30">Do one of the following:</paragraph>
@@ -92,8 +91,7 @@
             <paragraph xml-lang="en-US" id="par_id3153382" role="listitem" l10n="U" oldref="36">Choose <emph>File - Save</emph>.</paragraph>
          </listitem>
       </list>
-      <paragraph xml-lang="en-US" id="hd_id3154242" role="heading" level="2" l10n="U"
-                 oldref="37">To Edit a Master Document</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3154242" role="heading" level="2" l10n="U" oldref="37">To Edit a Master Document</paragraph>
       <paragraph xml-lang="en-US" id="par_id3154255" role="paragraph" l10n="U" oldref="20">Use the Navigator for rearranging and editing the subdocuments in a master document.</paragraph>
       <list type="unordered">
          <listitem>
@@ -134,8 +132,7 @@
       </table>
 
       <paragraph xml-lang="en-US" id="par_idN10C40" role="note" l10n="NEW">When you insert an object like a frame or a picture into a master document, do not anchor the object "to page". Instead, set the anchor "to paragraph" on the <emph>Format - (Object type) - Type</emph> tab page, and then set the object's position relative to "Entire Page" in the <emph>Horizontal</emph> and <emph>Vertical</emph> list boxes.</paragraph>
-      <paragraph xml-lang="en-US" id="hd_id3153656" role="heading" level="3" l10n="U"
-                 oldref="41">To Start Each Subdocument on a New Page</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3153656" role="heading" level="3" l10n="U" oldref="41">To Start Each Subdocument on a New Page</paragraph>
       <list type="ordered">
          <listitem>
             <paragraph xml-lang="en-US" id="par_id3152760" role="listitem" l10n="U" oldref="42">Ensure that each subdocument starts with a heading that uses the same paragraph style, for example "Heading 1".</paragraph>
@@ -159,8 +156,7 @@
             <paragraph xml-lang="en-US" id="par_id3145205" role="listitem" l10n="U" oldref="47">Click <emph>OK</emph>.</paragraph>
          </listitem>
       </list>
-      <paragraph xml-lang="en-US" id="hd_id3145228" role="heading" level="3" l10n="CHG"
-                 oldref="48">To Export a Master Document as a <item type="productname">%PRODUCTNAME</item> Text Document</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3145228" role="heading" level="3" l10n="CHG" oldref="48">To Export a Master Document as a <item type="productname">%PRODUCTNAME</item> Text Document</paragraph>
       <list type="ordered">
          <listitem>
             <paragraph xml-lang="en-US" id="par_id3150315" role="listitem" l10n="U" oldref="49">Choose <item type="menuitem">File - Export</item>.</paragraph>

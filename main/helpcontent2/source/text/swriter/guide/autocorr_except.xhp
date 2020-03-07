@@ -33,9 +33,9 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3152887"><bookmark_value>AutoCorrect function; adding exceptions</bookmark_value>
-      <bookmark_value>exceptions; AutoCorrect function</bookmark_value>
-      <bookmark_value>abbreviations</bookmark_value>
-      <bookmark_value>capital letters;avoiding after specific abbreviations</bookmark_value>
+<bookmark_value>exceptions; AutoCorrect function</bookmark_value>
+<bookmark_value>abbreviations</bookmark_value>
+<bookmark_value>capital letters;avoiding after specific abbreviations</bookmark_value>
 </bookmark><comment>MW added "capital letters;..."</comment>
 <paragraph xml-lang="en-US" id="hd_id3152887" role="heading" level="1" l10n="U"
                  oldref="10"><variable id="autocorr_except"><link href="text/swriter/guide/autocorr_except.xhp" name="Adding Exceptions to the AutoCorrect List">Adding Exceptions to the AutoCorrect List</link>

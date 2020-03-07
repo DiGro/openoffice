@@ -33,12 +33,12 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3155869"><bookmark_value>formatting; indenting paragraphs</bookmark_value>
-      <bookmark_value>indents;in text</bookmark_value>
-      <bookmark_value>paragraphs; indents</bookmark_value>
-      <bookmark_value>hanging indents in paragraphs</bookmark_value>
-      <bookmark_value>right indents in paragraphs</bookmark_value>
-      <bookmark_value>lines of text; indents</bookmark_value>
-      <bookmark_value>changing;indents</bookmark_value>
+<bookmark_value>indents;in text</bookmark_value>
+<bookmark_value>paragraphs; indents</bookmark_value>
+<bookmark_value>hanging indents in paragraphs</bookmark_value>
+<bookmark_value>right indents in paragraphs</bookmark_value>
+<bookmark_value>lines of text; indents</bookmark_value>
+<bookmark_value>changing;indents</bookmark_value>
 </bookmark><comment>mw made indents a two level entry, changed "paragraphs;"  and copied "changing;indents" from writer guide "ruler.xhp"</comment>
 <paragraph xml-lang="en-US" id="hd_id129398" role="heading" level="1" l10n="NEW"><variable id="indenting"><link href="text/swriter/guide/indenting.xhp">Indenting Paragraphs</link>
 </variable></paragraph><comment>see i66307</comment>

@@ -33,14 +33,14 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3145087"><bookmark_value>references; inserting cross-references</bookmark_value>
-      <bookmark_value>cross-references; inserting and updating</bookmark_value>
-      <bookmark_value>tables; cross-referencing</bookmark_value>
-      <bookmark_value>pictures; cross-referencing</bookmark_value>
-      <bookmark_value>objects; cross-referencing</bookmark_value>
-      <bookmark_value>OLE objects;cross-referencing</bookmark_value>
-      <bookmark_value>draw objects;cross-referencing</bookmark_value>
-      <bookmark_value>updating;cross-references</bookmark_value>
-      <bookmark_value>inserting;cross-references</bookmark_value>
+<bookmark_value>cross-references; inserting and updating</bookmark_value>
+<bookmark_value>tables; cross-referencing</bookmark_value>
+<bookmark_value>pictures; cross-referencing</bookmark_value>
+<bookmark_value>objects; cross-referencing</bookmark_value>
+<bookmark_value>OLE objects;cross-referencing</bookmark_value>
+<bookmark_value>draw objects;cross-referencing</bookmark_value>
+<bookmark_value>updating;cross-references</bookmark_value>
+<bookmark_value>inserting;cross-references</bookmark_value>
 </bookmark>
 <paragraph xml-lang="en-US" id="hd_id3145087" role="heading" level="1" l10n="U"
                  oldref="28"><variable id="references"><link href="text/swriter/guide/references.xhp" name="Inserting Cross-References">Inserting Cross-References</link>

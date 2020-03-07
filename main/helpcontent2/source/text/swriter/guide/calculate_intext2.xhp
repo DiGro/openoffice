@@ -33,8 +33,8 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3153899"><bookmark_value>calculating;in text tables</bookmark_value>
-      <bookmark_value>tables; performing calculations in</bookmark_value>
-</bookmark><comment>MW reduced "text tables;" to "tables;"</comment>
+<bookmark_value>text tables; performing calculations in</bookmark_value>
+</bookmark>
 <paragraph xml-lang="en-US" id="hd_id3153899" role="heading" level="1" l10n="U"
                  oldref="49"><variable id="calculate_intext2"><link href="text/swriter/guide/calculate_intext2.xhp" name="Displaying the Result of a Table Calculation in a Different Table">Displaying the Result of a Table Calculation in a Different Table</link>
 </variable></paragraph>

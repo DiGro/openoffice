@@ -33,12 +33,12 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3150620"><bookmark_value>indexes;unprotecting</bookmark_value>
-      <bookmark_value>tables of contents;unprotecting</bookmark_value>
-      <bookmark_value>tables;protecting/unprotecting cells</bookmark_value>
-      <bookmark_value>sections;protecting/unprotecting</bookmark_value>
-      <bookmark_value>unprotecting tables of contents and indexes</bookmark_value>
-      <bookmark_value>protecting;tables and sections</bookmark_value>
-      <bookmark_value>cells;protecting/unprotecting</bookmark_value>
+<bookmark_value>tables of contents;unprotecting</bookmark_value>
+<bookmark_value>tables;protecting/unprotecting cells</bookmark_value>
+<bookmark_value>sections;protecting/unprotecting</bookmark_value>
+<bookmark_value>unprotecting tables of contents and indexes</bookmark_value>
+<bookmark_value>protecting;tables and sections</bookmark_value>
+<bookmark_value>cells;protecting/unprotecting</bookmark_value>
 </bookmark><comment>mw transferred 4 index entries from shared/guide/protection.xhp, then changed "sections;" and "tables;", then added 3 new entries</comment>
 <paragraph xml-lang="en-US" id="hd_id6007263" role="heading" level="1" l10n="NEW"><variable id="protection"><link href="text/swriter/guide/protection.xhp" name="Protecting Content in %PRODUCTNAME Writer">Protecting Content in <item type="productname">%PRODUCTNAME Writer</item></link> 
 </variable></paragraph>
@@ -91,8 +91,7 @@
          </tablerow>
       </table>
 
-      <paragraph xml-lang="en-US" id="hd_id3149259" role="heading" level="2" l10n="U"
-                 oldref="43">Automatic Protection of Indexes and Tables</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3149259" role="heading" level="2" l10n="U" oldref="43">Automatic Protection of Indexes and Tables</paragraph>
       <paragraph xml-lang="en-US" id="par_id3153966" role="paragraph" l10n="U" oldref="44">Tables of contents and indexes created automatically in a <item type="productname">%PRODUCTNAME</item> Writer text are automatically protected against accidental changes.</paragraph>
       <paragraph xml-lang="en-US" id="par_id814539" role="warning" l10n="NEW">This protection is not intended to be a secure protection. It is just a switch to protect the contents against accidental changes.</paragraph>
       <table id="tbl_id3150644">
@@ -118,9 +117,7 @@
       </table>
       <embed href="text/shared/00/00000004.xhp#related"/>
       <embed href="text/shared/guide/redlining_protect.xhp#redlining_protect"/>
-      <paragraph xml-lang="en-US" id="par_idN10B8C" role="paragraph" l10n="NEW">
-         <embedvar href="text/shared/guide/digital_signatures.xhp#digital_signatures"/>
-      </paragraph>
+      <paragraph xml-lang="en-US" id="par_idN10B8C" role="paragraph" l10n="NEW"><embedvar href="text/shared/guide/digital_signatures.xhp#digital_signatures"/></paragraph>
       <paragraph xml-lang="en-US" id="par_id7858516" role="paragraph" l10n="NEW"><link href="text/shared/guide/protection.xhp">Protecting Other Contents</link></paragraph>
    </body>
 </helpdocument>

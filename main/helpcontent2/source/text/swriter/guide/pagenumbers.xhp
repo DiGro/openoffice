@@ -27,18 +27,18 @@
 
 <meta>
       <topic id="textswriterguidepagenumbersxml" indexer="include" status="PUBLISH">
-         <title xml-lang="en-US" id="tit">Page Numbers </title>
+         <title xml-lang="en-US" id="tit">Page Numbers</title>
          <filename>/text/swriter/guide/pagenumbers.xhp</filename>
       </topic>
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id5918759"><bookmark_value>page numbers;inserting/defining/formatting</bookmark_value>
-      <bookmark_value>page styles;page numbering</bookmark_value>
-      <bookmark_value>starting page numbers</bookmark_value>
-      <bookmark_value>formatting;page numbers</bookmark_value>
-      <bookmark_value>defining;starting page numbers</bookmark_value>
-      <bookmark_value>inserting;page numbers</bookmark_value>
-      <bookmark_value>styles;page numbers</bookmark_value>
+<bookmark_value>page styles;page numbering</bookmark_value>
+<bookmark_value>starting page numbers</bookmark_value>
+<bookmark_value>formatting;page numbers</bookmark_value>
+<bookmark_value>defining;starting page numbers</bookmark_value>
+<bookmark_value>inserting;page numbers</bookmark_value>
+<bookmark_value>styles;page numbers</bookmark_value>
 </bookmark><comment>mw inserted six index entries</comment><comment>mw added "styles;"</comment>
 <paragraph xml-lang="en-US" id="hd_id413830" role="heading" level="1" l10n="NEW"><variable id="pagenumbers"><link href="text/swriter/guide/pagenumbers.xhp" name="Page Numbers">Page Numbers</link>
 </variable></paragraph>
@@ -94,7 +94,7 @@
             <paragraph xml-lang="en-US" id="par_id4473403" role="listitem" l10n="NEW">Click into the first page of your document.</paragraph>
          </listitem>
          <listitem>
-            <paragraph xml-lang="en-US" id="par_id4313791" role="listitem" l10n="NEW">Choose <emph>Format - Styles and Formatting</emph>. </paragraph>
+            <paragraph xml-lang="en-US" id="par_id4313791" role="listitem" l10n="NEW">Choose <emph>Format - Styles and Formatting</emph>.</paragraph>
          </listitem>
          <listitem>
             <paragraph xml-lang="en-US" id="par_id4331797" role="listitem" l10n="NEW">In the <emph>Styles and Formatting</emph> window, click the <emph>Page Styles</emph> icon.</paragraph>

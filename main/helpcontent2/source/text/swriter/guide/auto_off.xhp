@@ -27,23 +27,23 @@
 
 <meta>
       <topic id="textswriterguideauto_offxml" indexer="include">
-         <title xml-lang="en-US" id="tit">Turning Off AutoCorrect </title>
+         <title xml-lang="en-US" id="tit">Turning Off AutoCorrect</title>
          <filename>/text/swriter/guide/auto_off.xhp</filename>
       </topic>
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3154250"><bookmark_value>turning off automatic correction</bookmark_value>
-      <bookmark_value>text;turning off automatic correction</bookmark_value>
-      <bookmark_value>uppercase;changing to lowercase</bookmark_value>
-      <bookmark_value>capital letters;changing to small letters after periods</bookmark_value>
-      <bookmark_value>quotation marks;changing automatically</bookmark_value>
-      <bookmark_value>words;automatic replacement on/off</bookmark_value>
-      <bookmark_value>lines;automatic drawing on/off</bookmark_value>
-      <bookmark_value>underlining;quick</bookmark_value>
-      <bookmark_value>borders; automatic drawing on/off</bookmark_value>
-      <bookmark_value>automatic changes on/off</bookmark_value>
-      <bookmark_value>changes;automatic</bookmark_value>
-      <bookmark_value>AutoCorrect function;turning off</bookmark_value>
+<bookmark_value>text;turning off automatic correction</bookmark_value>
+<bookmark_value>uppercase;changing to lowercase</bookmark_value>
+<bookmark_value>capital letters;changing to small letters after periods</bookmark_value>
+<bookmark_value>quotation marks;changing automatically</bookmark_value>
+<bookmark_value>words;automatic replacement on/off</bookmark_value>
+<bookmark_value>lines;automatic drawing on/off</bookmark_value>
+<bookmark_value>underlining;quick</bookmark_value>
+<bookmark_value>borders; automatic drawing on/off</bookmark_value>
+<bookmark_value>automatic changes on/off</bookmark_value>
+<bookmark_value>changes;automatic</bookmark_value>
+<bookmark_value>AutoCorrect function;turning off</bookmark_value>
 </bookmark>
 <paragraph xml-lang="en-US" id="par_id3154250" role="paragraph" l10n="E" oldref="1"
                  localize="false"/>

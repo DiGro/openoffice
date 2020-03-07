@@ -33,11 +33,9 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3147104"><bookmark_value>tables of contents; creating and updating</bookmark_value>
-      <bookmark_value>updating; tables of contents</bookmark_value>
+<bookmark_value>updating; tables of contents</bookmark_value>
 </bookmark><comment>mw deleted "creating;"</comment>
-<paragraph xml-lang="en-US" id="hd_id3147104" role="heading" level="1" l10n="U"
-                 oldref="16"><variable id="indices_toc"><link href="text/swriter/guide/indices_toc.xhp" name="Creating a Table of Contents">Creating a Table of Contents</link>
-</variable></paragraph>
+<paragraph xml-lang="en-US" id="hd_id3147104" role="heading" level="1" l10n="U" oldref="16"><variable id="indices_toc"><link href="text/swriter/guide/indices_toc.xhp" name="Creating a Table of Contents">Creating a Table of Contents</link></variable></paragraph>
       <section id="tomanual">
          <paragraph xml-lang="en-US" id="par_id3150942" role="paragraph" l10n="U" oldref="45">The best way to generate a table of contents is to apply the predefined heading paragraph styles, such as "Heading 1", to the paragraphs that you want to include in your table of contents. After you apply these styles, you can then create a table of contents.</paragraph>
          <paragraph xml-lang="en-US" id="hd_id5876949" role="heading" level="2" l10n="NEW">To Insert a Table of Contents</paragraph>
@@ -60,8 +58,7 @@
          </list>
          <paragraph xml-lang="en-US" id="par_id3146896" role="paragraph" l10n="U" oldref="20">If you want to use a different paragraph style as a table of contents entry, select the <item type="menuitem">Additional Styles</item> check box in the <item type="menuitem">Create from</item> area, and then click the (<item type="menuitem">...</item>) button next to the check box. In the <item type="menuitem">Assign Styles</item> dialog, click the style in the list, and then click the <item type="menuitem">&gt;&gt;</item> or the <item type="menuitem">&lt;&lt;</item> button to define the outline level for the paragraph style.</paragraph>
       </section>
-      <paragraph xml-lang="en-US" id="hd_id3153148" role="heading" level="2" l10n="U"
-                 oldref="21">To Update a Table of Contents</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3153148" role="heading" level="2" l10n="U" oldref="21">To Update a Table of Contents</paragraph>
       <paragraph xml-lang="en-US" id="par_id3153161" role="paragraph" l10n="U" oldref="22">Do one of the following:</paragraph>
       <list type="unordered">
          <listitem>

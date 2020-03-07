@@ -33,10 +33,10 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3155619"><bookmark_value>matching conditional text in fields</bookmark_value>
-      <bookmark_value>if-then queries as fields</bookmark_value>
-      <bookmark_value>conditional text; setting up</bookmark_value>
-      <bookmark_value>text; conditional text</bookmark_value>
-      <bookmark_value>defining;conditions</bookmark_value>
+<bookmark_value>if-then queries as fields</bookmark_value>
+<bookmark_value>conditional text; setting up</bookmark_value>
+<bookmark_value>text; conditional text</bookmark_value>
+<bookmark_value>defining;conditions</bookmark_value>
 </bookmark>
 <paragraph xml-lang="en-US" id="hd_id3155619" role="heading" level="1" l10n="U" oldref="4"><variable id="conditional_text"><link href="text/swriter/guide/conditional_text.xhp" name="Conditional Text">Conditional Text</link>
 </variable></paragraph>
@@ -62,8 +62,7 @@
             <paragraph xml-lang="en-US" id="par_id7748344" role="listitem" l10n="NEW">Enter <item type="literal">1</item> in the <item type="menuitem">Value</item> box, and then click <item type="menuitem">Insert</item>.<br/>The Format list now displays a "General" format.</paragraph>
          </listitem>
       </list>
-      <paragraph xml-lang="en-US" id="hd_id3145645" role="heading" level="2" l10n="U"
-                 oldref="63">To Define a Condition and the Conditional Text</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3145645" role="heading" level="2" l10n="U" oldref="63">To Define a Condition and the Conditional Text</paragraph>
       <paragraph xml-lang="en-US" id="par_id3145659" role="paragraph" l10n="U" oldref="64">The second part of the example is to define the condition that must be met, and to insert a placeholder for displaying the conditional text in your document.</paragraph>
       <list type="ordered">
          <listitem>
@@ -88,8 +87,7 @@
             <paragraph xml-lang="en-US" id="par_id3150473" role="listitem" l10n="U" oldref="17">Click <emph>Insert</emph>, and then click <emph>Close</emph>.</paragraph>
          </listitem>
       </list>
-      <paragraph xml-lang="en-US" id="hd_id3155073" role="heading" level="2" l10n="U"
-                 oldref="66">To Display the Conditional Text</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3155073" role="heading" level="2" l10n="U" oldref="66">To Display the Conditional Text</paragraph>
       <paragraph xml-lang="en-US" id="par_id3155086" role="paragraph" l10n="U" oldref="67">In this example, the conditional text is displayed when the value of the conditional variable is equal to 3.</paragraph>
       <list type="ordered">
          <listitem>

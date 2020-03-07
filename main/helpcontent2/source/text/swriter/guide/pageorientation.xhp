@@ -33,16 +33,16 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id9683828"><bookmark_value>page styles;orientation/scope</bookmark_value>
-      <bookmark_value>page formats; changing individual pages</bookmark_value>
-      <bookmark_value>formatting; changing individual pages</bookmark_value>
-      <bookmark_value>portrait and landscape</bookmark_value>
-      <bookmark_value>landscape and portrait</bookmark_value>
-      <bookmark_value>printing;portrait/landscape format</bookmark_value>
-      <bookmark_value>orientation of pages</bookmark_value>
-      <bookmark_value>paper orientation</bookmark_value>
-      <bookmark_value>pages;orientation</bookmark_value>
-      <bookmark_value>sideways orientation of pages</bookmark_value>
-      <bookmark_value>scope of page styles</bookmark_value>
+<bookmark_value>page formats; changing individual pages</bookmark_value>
+<bookmark_value>formatting; changing individual pages</bookmark_value>
+<bookmark_value>portrait and landscape</bookmark_value>
+<bookmark_value>landscape and portrait</bookmark_value>
+<bookmark_value>printing;portrait/landscape format</bookmark_value>
+<bookmark_value>orientation of pages</bookmark_value>
+<bookmark_value>paper orientation</bookmark_value>
+<bookmark_value>pages;orientation</bookmark_value>
+<bookmark_value>sideways orientation of pages</bookmark_value>
+<bookmark_value>scope of page styles</bookmark_value>
 </bookmark><comment>MW changed "page styles;..." and added one entry</comment>
 <paragraph xml-lang="en-US" id="par_idN106FF" role="heading" level="1" l10n="NEW"><variable id="pageorientation"><link href="text/swriter/guide/pageorientation.xhp">Changing Page Orientation</link>
 </variable></paragraph>

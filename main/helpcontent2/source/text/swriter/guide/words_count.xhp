@@ -33,13 +33,13 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3149686"><bookmark_value>words; counting in text</bookmark_value>
-      <bookmark_value>number of words</bookmark_value>
-      <bookmark_value>documents; number of words/characters</bookmark_value>
-      <bookmark_value>text; number of words/characters</bookmark_value>
-      <bookmark_value>characters; counting</bookmark_value>
-      <bookmark_value>number of characters</bookmark_value>
-      <bookmark_value>counting words</bookmark_value>
-      <bookmark_value>word counts</bookmark_value>
+<bookmark_value>number of words</bookmark_value>
+<bookmark_value>documents; number of words/characters</bookmark_value>
+<bookmark_value>text; number of words/characters</bookmark_value>
+<bookmark_value>characters; counting</bookmark_value>
+<bookmark_value>number of characters</bookmark_value>
+<bookmark_value>counting words</bookmark_value>
+<bookmark_value>word counts</bookmark_value>
 </bookmark><comment>MW deleted "character counts"</comment>
 <paragraph xml-lang="en-US" id="hd_id3149686" role="heading" level="1" l10n="U" oldref="1"><variable id="words_count"><link href="text/swriter/guide/words_count.xhp" name="Counting Words">Counting Words</link>
 </variable></paragraph>

@@ -33,11 +33,11 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3153398"><bookmark_value>fields; user data</bookmark_value>
-      <bookmark_value>user data; querying</bookmark_value>
-      <bookmark_value>conditions; user data fields</bookmark_value>
-      <bookmark_value>hiding;text, from specific users</bookmark_value>
-      <bookmark_value>text; hiding from specific users, with conditions</bookmark_value>
-      <bookmark_value>user variables in conditions/fields</bookmark_value>
+<bookmark_value>user data; querying</bookmark_value>
+<bookmark_value>conditions; user data fields</bookmark_value>
+<bookmark_value>hiding;text, from specific users</bookmark_value>
+<bookmark_value>text; hiding from specific users, with conditions</bookmark_value>
+<bookmark_value>user variables in conditions/fields</bookmark_value>
 </bookmark>
 <paragraph xml-lang="en-US" id="hd_id3153398" role="heading" level="1" l10n="U"
                  oldref="59"><variable id="fields_userdata"><link href="text/swriter/guide/fields_userdata.xhp" name="Querying User Data in Fields or Conditions">Querying User Data in Fields or Conditions</link>

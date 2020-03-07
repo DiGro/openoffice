@@ -33,9 +33,9 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3155624"><bookmark_value>footers; with page numbers</bookmark_value>
-      <bookmark_value>pages; numbers and count of</bookmark_value>
-      <bookmark_value>page numbers; footers</bookmark_value>
-      <bookmark_value>numbering;pages</bookmark_value>
+<bookmark_value>pages; numbers and count of</bookmark_value>
+<bookmark_value>page numbers; footers</bookmark_value>
+<bookmark_value>numbering;pages</bookmark_value>
 </bookmark>
 <paragraph xml-lang="en-US" id="hd_id3155624" role="heading" level="1" l10n="U" oldref="1"><variable id="footer_pagenumber"><link href="text/swriter/guide/footer_pagenumber.xhp" name="Inserting Page Numbers in Footers">Inserting Page Numbers in Footers</link>
 </variable></paragraph>

@@ -35,11 +35,11 @@
 <bookmark xml-lang="en-US" branch="index" id="bm_id3149816"><bookmark_value>sections; editing</bookmark_value>
 <bookmark_value>sections;deleting</bookmark_value>
 <bookmark_value>deleting;sections</bookmark_value>
-      <bookmark_value>editing;sections</bookmark_value>
-      <bookmark_value>read-only sections</bookmark_value>
-      <bookmark_value>protecting;sections</bookmark_value>
-      <bookmark_value>converting;sections, into normal text</bookmark_value>
-      <bookmark_value>hiding;sections</bookmark_value>
+<bookmark_value>editing;sections</bookmark_value>
+<bookmark_value>read-only sections</bookmark_value>
+<bookmark_value>protecting;sections</bookmark_value>
+<bookmark_value>converting;sections, into normal text</bookmark_value>
+<bookmark_value>hiding;sections</bookmark_value>
 </bookmark><comment>ufi: added two deleting sections entries</comment>
 <paragraph xml-lang="en-US" id="hd_id3149816" role="heading" level="1" l10n="U"
                  oldref="13"><variable id="section_edit"><link href="text/swriter/guide/section_edit.xhp" name="Editing Sections">Editing Sections</link>

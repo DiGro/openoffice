@@ -33,11 +33,11 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3149637"><bookmark_value>numbering; removing/interrupting</bookmark_value>
-      <bookmark_value>bullet lists; interrupting</bookmark_value>
-      <bookmark_value>lists;removing/interrupting numbering</bookmark_value>
-      <bookmark_value>deleting;numbers in lists</bookmark_value>
-      <bookmark_value>interrupting numbered lists</bookmark_value>
-      <bookmark_value>changing;starting numbers in lists</bookmark_value>
+<bookmark_value>bullet lists; interrupting</bookmark_value>
+<bookmark_value>lists;removing/interrupting numbering</bookmark_value>
+<bookmark_value>deleting;numbers in lists</bookmark_value>
+<bookmark_value>interrupting numbered lists</bookmark_value>
+<bookmark_value>changing;starting numbers in lists</bookmark_value>
 </bookmark><comment>MW changed "removing;..." to "deleting;...", and deleted "modifying;..."</comment>
 <paragraph xml-lang="en-US" id="hd_id3149637" role="heading" level="1" l10n="U" oldref="1"><variable id="numbering_paras"><link href="text/swriter/guide/numbering_paras.xhp" name="Modifying Numbering in a Numbered List">Modifying Numbering in a Numbered List</link>
 </variable></paragraph>

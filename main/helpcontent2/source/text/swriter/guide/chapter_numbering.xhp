@@ -33,10 +33,10 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3147682"><bookmark_value>outlines;numbering</bookmark_value>
-      <bookmark_value>deleting;heading numbers</bookmark_value>
-      <bookmark_value>chapter numbering</bookmark_value>
-      <bookmark_value>headings; numbering/paragraph styles</bookmark_value>
-      <bookmark_value>numbering;headings</bookmark_value>
+<bookmark_value>deleting;heading numbers</bookmark_value>
+<bookmark_value>chapter numbering</bookmark_value>
+<bookmark_value>headings; numbering/paragraph styles</bookmark_value>
+<bookmark_value>numbering;headings</bookmark_value>
 </bookmark><comment>MW changed "removing;..." to "deleting;..." and made "outline numbering" a two level entry</comment><comment>mw reduced two  "headings;" bookmarks to one entry</comment>
 <paragraph xml-lang="en-US" id="hd_id3147682" role="heading" level="1" l10n="U"
                  oldref="22"><variable id="chapter_numbering"><link href="text/swriter/guide/chapter_numbering.xhp" name="Outline Numbering">Outline Numbering</link>

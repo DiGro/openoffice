@@ -65,7 +65,7 @@ DEDR: Reviewed</lastedited>
 </tablerow>
 <tablerow>
 <tablecell colspan="" rowspan="">
-<paragraph role="tablecontent" id="par_id3151172" xml-lang="en-US" l10n="U" oldref="6">Character Styles </paragraph>
+<paragraph role="tablecontent" id="par_id3151172" xml-lang="en-US" l10n="U" oldref="6">Character Styles</paragraph>
 </tablecell>
 <tablecell colspan="" rowspan="">
 <paragraph role="tablecontent" id="par_id3147512" xml-lang="en-US" l10n="U" oldref="7">Use Character Styles to format single characters, or entire words and phrases. If you want, you can nest Character Styles.</paragraph>
@@ -73,7 +73,7 @@ DEDR: Reviewed</lastedited>
 </tablerow>
 <tablerow>
 <tablecell colspan="" rowspan="">
-<paragraph role="tablecontent" id="par_id3150713" xml-lang="en-US" l10n="U" oldref="8">Paragraph Styles </paragraph>
+<paragraph role="tablecontent" id="par_id3150713" xml-lang="en-US" l10n="U" oldref="8">Paragraph Styles</paragraph>
 </tablecell>
 <tablecell colspan="" rowspan="">
 <paragraph role="tablecontent" id="par_id3149810" xml-lang="en-US" l10n="U" oldref="9">Use Paragraph Styles to format paragraphs, including the font type and size. You can also select the paragraph style to apply to the next paragraph.</paragraph>
@@ -89,7 +89,7 @@ DEDR: Reviewed</lastedited>
 </tablerow>
 <tablerow>
 <tablecell colspan="" rowspan="">
-<paragraph role="tablecontent" id="par_id3152960" xml-lang="en-US" l10n="U" oldref="12">Page Styles </paragraph>
+<paragraph role="tablecontent" id="par_id3152960" xml-lang="en-US" l10n="U" oldref="12">Page Styles</paragraph>
 </tablecell>
 <tablecell colspan="" rowspan="">
 <paragraph role="tablecontent" id="par_id3155897" xml-lang="en-US" l10n="U" oldref="13">Use Page Styles to organize the structure of the document, and to add page numbers. You can also specify the page style to apply to the first page that follows after a page break.</paragraph>

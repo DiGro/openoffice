@@ -33,12 +33,12 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3150101"><bookmark_value>line numbers</bookmark_value>
-      <bookmark_value>text; line numbers</bookmark_value>
-      <bookmark_value>paragraphs;line numbers</bookmark_value>
-      <bookmark_value>lines of text; numbering</bookmark_value>
-      <bookmark_value>numbering; lines</bookmark_value>
-      <bookmark_value>numbers; line numbering</bookmark_value>
-      <bookmark_value>marginal numbers on text pages</bookmark_value>
+<bookmark_value>text; line numbers</bookmark_value>
+<bookmark_value>paragraphs;line numbers</bookmark_value>
+<bookmark_value>lines of text; numbering</bookmark_value>
+<bookmark_value>numbering; lines</bookmark_value>
+<bookmark_value>numbers; line numbering</bookmark_value>
+<bookmark_value>marginal numbers on text pages</bookmark_value>
 </bookmark><comment>MW added "paragraphs;"</comment>
 <paragraph xml-lang="en-US" id="hd_id3150101" role="heading" level="1" l10n="U" oldref="3"><variable id="numbering_lines"><link href="text/swriter/guide/numbering_lines.xhp" name="Adding Line Numbers">Adding Line Numbers</link>
 </variable></paragraph>

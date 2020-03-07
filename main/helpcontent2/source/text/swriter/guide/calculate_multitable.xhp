@@ -33,8 +33,8 @@
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id3154248"><bookmark_value>calculating; across multiple text tables</bookmark_value>
-      <bookmark_value>tables;calculating across</bookmark_value>
-</bookmark><comment>mw changed "text tables;" to "tables;"</comment>
+<bookmark_value>text tables;calculating across</bookmark_value>
+</bookmark>
 <paragraph xml-lang="en-US" id="hd_id3154248" role="heading" level="1" l10n="U"
                  oldref="11"><variable id="calculate_multitable"><link href="text/swriter/guide/calculate_multitable.xhp" name="Calculating Across Tables">Calculating Across Tables</link>
 </variable></paragraph>

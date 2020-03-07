@@ -27,16 +27,16 @@
 
 <meta>
       <topic id="textswriterguidebordersxhp" indexer="include" status="PUBLISH">
-         <title xml-lang="en-US" id="tit">User Defined Borders in Text Documents </title>
+         <title xml-lang="en-US" id="tit">User Defined Borders in Text Documents</title>
          <filename>/text/swriter/guide/borders.xhp</filename>
       </topic>
    </meta>
    <body>
 <bookmark xml-lang="en-US" branch="index" id="bm_id6737876"><bookmark_value>borders;for text tables</bookmark_value>
-      <bookmark_value>cells;borders in text tables</bookmark_value>
-      <bookmark_value>defining;table borders in Writer</bookmark_value>
-      <bookmark_value>frames;around text tables</bookmark_value>
-      <bookmark_value>tables;defining borders</bookmark_value>
+<bookmark_value>cells;borders in text tables</bookmark_value>
+<bookmark_value>defining;table borders in Writer</bookmark_value>
+<bookmark_value>frames;around text tables</bookmark_value>
+<bookmark_value>tables;defining borders</bookmark_value>
 </bookmark><comment>MW changed "text tables;" to "tables;"</comment>
 <paragraph xml-lang="en-US" id="hd_id3614917" role="heading" level="1" l10n="NEW"><variable id="borders"><link href="text/swriter/guide/borders.xhp">User Defined Borders in Text Documents</link>
 </variable></paragraph>

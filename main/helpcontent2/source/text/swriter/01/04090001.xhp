@@ -108,8 +108,7 @@
                <paragraph xml-lang="en-US" id="par_id3148863" role="tablecontent" l10n="U" oldref="22">Statistics</paragraph>
             </tablecell>
             <tablecell>
-               <paragraph xml-lang="en-US" id="par_id3151091" role="tablecontent" l10n="U" oldref="23">Inserts document statistics, such as page and word counts, as a field. To view the statistics of a document, choose <emph>File - Properties</emph>, and then click the <emph>Statistics</emph> tab.
-               </paragraph>
+               <paragraph xml-lang="en-US" id="par_id3151091" role="tablecontent" l10n="U" oldref="23">Inserts document statistics, such as page and word counts, as a field. To view the statistics of a document, choose <emph>File - Properties</emph>, and then click the <emph>Statistics</emph> tab.</paragraph>
             </tablecell>
          </tablerow>
          <tablerow>
